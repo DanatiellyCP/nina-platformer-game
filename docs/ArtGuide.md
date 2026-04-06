@@ -56,7 +56,7 @@ Estilo recomendado: **cores vivas, contraste moderado e sombras suaves**.
 - Verde esmeralda  
 - Tons terrosos para cenários  
 
-Você pode usar estes sites para gerar paletas consistentes:
+### Sites para gerar paletas consistentes:
 - https://coolors.co  
 - https://lospec.com/palette-list  
 - https://palettegenerator.com  

@@ -6,14 +6,14 @@ Resumo da história, temática, público-alvo, estilo visual.
 ## 2. Jogabilidade
 - Movimento
 - Pulo
-- Combate (se houver)
+- Combate
 - Interações
 - Progresso do jogador
 
 ## 3. Estrutura de Fases
 - Level 1: Introdução
 - Level 2: Primeiros inimigos
-- Hub world (opcional)
+
 
 ## 4. Personagens
 - Nina (jogadora)
